@@ -1,0 +1,66 @@
+/*General*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0 auto;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+/*Encabezado*/
+header div{
+    background-color: #411aac;
+    height: 310px;
+    text-align: center;
+}
+header div img{
+    margin-top: 30px;
+    height: 250px;
+    border-radius: 50%;
+}
+h1{
+    text-transform: uppercase;
+    background-color: #411aac;
+    color: #fff;
+    text-align: center;
+}
+/*Main*/
+main{
+    margin-top: 100px;
+}
+h2{
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    background-color: #411aac;
+    color: #fff;
+    border-radius: 8px;
+    padding: 0px 15px;
+}
+.contenido{
+    width: 60%;
+    margin: 0 auto;
+}
+span{
+    font-weight: bold;
+}
+dt{
+    font-weight: bold;
+}
+/*Footer*/
+footer{
+    text-align: center;
+    background-color:#929292;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/*Sobre Mi*/
+
+.sobre_h1{
+    background-color: #411aac;
+}
+
+.main_sobre_mi{
+    margin-top: 0px;
+}
